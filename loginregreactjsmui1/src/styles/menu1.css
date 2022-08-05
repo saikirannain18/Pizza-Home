@@ -1,0 +1,27 @@
+.Table {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-collapse: collapse;
+    border: 2px solid #999;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 3px;
+    border-color: gray
+  }
+  .div {
+    
+    font-family: cursive;
+    font-size: 60px;
+  }
+  td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
+ 
+  
